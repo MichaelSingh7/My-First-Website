@@ -3,7 +3,6 @@ body {
     padding:0;
     font-family:sans-serif;
     background-image: url("https://ichef.bbci.co.uk/images/ic/976x549_b/p02j8xrm.jpg")
-    
 }
 
 nav ul {
@@ -29,8 +28,8 @@ nav a {
 }
 
 nav a:hover {
-    background-color: white;
-    color:crimson;
+    background-color: black;
+    color:white;
     
 }
 
