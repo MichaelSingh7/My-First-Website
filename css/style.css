@@ -2,11 +2,13 @@ body {
     margin:0;
     padding:0;
     font-family:sans-serif;
+    background-image: url("https://img15.dreamies.de/img/682/b/nrt4vw0s43z.gif")
+    
 }
 
 nav ul {
     list-style: none;
-    background-color: crimson;
+    background-color: black;
     text-align: center;
     margin: 0;
     padding: 0;
