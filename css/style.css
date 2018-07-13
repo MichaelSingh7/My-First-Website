@@ -1,0 +1,55 @@
+body {
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+}
+
+nav ul {
+    list-style: none;
+    background-color: crimson;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    font-size: 1.2em;
+    line-height: 40px;
+    height: 40px;
+    display: inline-block;
+    margin-left: 2.5%;
+}
+
+nav a {
+    text-decoration: none;
+    color:white;
+    display:block;
+}
+
+nav a:hover {
+    background-color: white;
+    color:crimson;
+    
+}
+
+.card {
+    float: left;
+    margin-left: 10%;
+    width: 200px;
+    height:auto;
+    
+}
+
+.card a {
+    text-align: center;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width:100%;
+}
+
